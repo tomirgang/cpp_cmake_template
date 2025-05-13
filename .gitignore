@@ -1,3 +1,4 @@
+/.cache
 /**/build*
 
 # Created by https://www.toptal.com/developers/gitignore/api/cmake,c++,visualstudiocode,vim,linux,windows,macos
